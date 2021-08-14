@@ -61,16 +61,16 @@ Stuck with your project or looking for developer? Email me at: nurujjamanpollob@
 
 <ul>
   
-    <li> Hospitals Address.</li>  
-    <li> Contact Details. </li> 
-    <li> Distance from you. </li> 
-    <li> Services Provided by Hospital. </li> 
-    <li> Open/Close Time. </li>  
-    <li> Health Care details. </li> 
-    <li> Map location. </li> 
-    <li> Ratings for Hospital. </li>
+<li> Hospitals Address.</li>  
+<li> Contact Details. </li> 
+<li> Distance from you. </li> 
+<li> Services Provided by Hospital. </li> 
+<li> Open/Close Time. </li>  
+<li> Health Care details. </li> 
+<li> Map location. </li> 
+<li> Ratings for Hospital. </li>
   
-  </ul>
+</ul>
   
   <h3> Extra Features </h3>
   
