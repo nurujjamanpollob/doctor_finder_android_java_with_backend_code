@@ -123,6 +123,6 @@ Stuck with your project or looking for developer? Email me at: nurujjamanpollob@
   
   
   
-  <h4> Contributions is always welcome. If this code helps you to lear something new or shorten development time, feel free to star this repo </h4>
+  <h4> Contributions is always welcome. If this code helps you to learn something new or shorten development time, feel free to star this repo </h4>
  
 
