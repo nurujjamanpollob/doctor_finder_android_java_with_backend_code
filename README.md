@@ -5,13 +5,15 @@ Are you looking for source code of an doctor finder application with backend sou
 
 You are in right place to grab complete mobile app. 
 
-Backend PHP, Database: MySQL, Client: Java. 
+Backend: PHP, Database: MySQL, Client: Java. 
 
-This application I have developed when I was exploring Android, still exploring but I am a professional. 
+This application I have developed when I was exploring Android, still exploring but now I am a professional. 
 
 Stuck with your project or looking for developer? Email me at: nurujjamanpollob@gmail.com
 
 <h2> Feature List </h2>
+
+<h3> Basic summery</h3>
 
 <ul>
   
@@ -24,7 +26,7 @@ Stuck with your project or looking for developer? Email me at: nurujjamanpollob@
 <li> Find Hospitals Near you. </li> 
 <li> Find Hospitals within your city. </li> 
 <li> Find Hospitals sort by name. </li> 
-<li> Sort doctors list by speciality (Urologist, Pulmonologist, Eye Care & more) </li>.
+<li> Sort doctors list by speciality (Urologist, Pulmonologist, Eye Care & more). </li>
   
   </ul>
   
