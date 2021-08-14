@@ -1,0 +1,73 @@
+﻿
+Version 1.0
+Doctor Finder - Complete Medical Solution android application is combo app to find doctors, Pharmacies & Hospitals near you, you can find doctors within your city, check for pharmacy near you or even find list of hospitals and compare services 
+
+1. Find Doctors Near you,
+2. Find Doctors within your city
+3. Find Doctors sort by name
+4. Find Pharmacy Near you,
+5. Find Pharmacy within your city
+6. Find Pharmacy sort by name
+7. Find Hospitals Near you,
+8. Find Hospitals within your city
+9. Find Hospitals sort by name
+10.Sort doctors list by speciality (Urologist, Pulmonologist, Eye Care & more)
+11.Check Doctors Profile 
+    Doctor’s Address 
+    Contact Details
+    Distance from you
+    Services Provided by doctors
+    Visiting Time 
+    Health Care details
+    Map location
+    Ratings for doctors
+12.Check Pharmacy Profile 
+    Pharmacy Address 
+    Contact Details
+    Distance from you
+    Services Provided by Pharmacy
+    Open/Close Time 
+    Health Care details
+    Map location
+    Ratings for Pharmacy
+13.Check Hospitals Profile
+    Hospitals Address 
+    Contact Details
+    Distance from you
+    Services Provided by Hospital
+    Open/Close Time 
+    Health Care details
+    Map location
+    Ratings for Hospital
+14. You can also book appointment to the doctors by adding details like date, time and reason for visiting, all details will be send by mail to doctor.
+15. You can also upload prescription to Pharmacy by adding mobile number, prescription will be send by mail to pharmacy store.
+16. Cash on delivery is supported in Order Medicine
+17. Attractive and Informative Splash Slider
+18. Favourite list : you can bookmark doctors, pharmacies & Hospitals
+19. About app description 
+20. Share doctors, Pharmacy and Hospitals on social media
+21. Share app on social media
+22. Add Ratings and Review
+23. Login with Facebook
+24. Login and Register with email 
+25. Add your profile picture
+26. Admob Integration ( Banner & Interstitial both) 
+27. Firebase Push Notification Supported
+28. Setting for application
+      Sort list by Radius
+      Sort list by City
+      Sort list by ascending or descending
+29. On/Off Admob Advertising
+30. Easy to add New language 
+31. RTL Supported 
+
+
+PHP Admin Panel (Backend)
+1. Attractive & Informative Dashboard
+2. Separate List for doctors, Pharmacy & Hospitals
+3. Add Profiles of doctors, Pharmacy & Hospitals 
+4. Add speciality list from admin
+5. Easy Configuration of push notification from admin
+6. Send push notification from admin panel
+7. Check reviews and ratings 
+8. Google map to select easy location 

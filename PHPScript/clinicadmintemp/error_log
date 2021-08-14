@@ -1,0 +1,196 @@
+[22-Aug-2016 03:58:02 UTC] PHP Notice:  Undefined index: login in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 31
+[22-Aug-2016 03:58:02 UTC] PHP Notice:  Undefined index: uid in /home/freaktemplate/public_html/clinicadmin/include/header.php on line 2
+[22-Aug-2016 03:58:08 UTC] PHP Notice:  Undefined index: login in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 31
+[22-Aug-2016 03:58:08 UTC] PHP Notice:  Undefined index: uid in /home/freaktemplate/public_html/clinicadmin/include/header.php on line 2
+[22-Aug-2016 09:20:07 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 09:20:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 10:22:24 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 10:22:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:29:45 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:29:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:33:48 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:33:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:33:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 225
+[22-Aug-2016 12:33:59 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:35:42 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:35:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[22-Aug-2016 12:35:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 225
+[22-Aug-2016 13:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:06:06 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:06:09 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:06:11 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:06:13 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:10:06 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:16:19 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[22-Aug-2016 13:16:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[22-Aug-2016 13:17:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[22-Aug-2016 13:17:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[22-Aug-2016 13:17:53 UTC] PHP Notice:  Undefined index: login in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 31
+[22-Aug-2016 13:17:53 UTC] PHP Notice:  Undefined index: uid in /home/freaktemplate/public_html/clinicadmin/include/header.php on line 2
+[22-Aug-2016 13:19:25 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[22-Aug-2016 13:22:17 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 04:12:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:12:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:12:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:13:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:15:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:15:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:16:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:16:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:16:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[23-Aug-2016 04:16:48 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 04:17:23 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 04:17:25 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 04:18:29 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 04:24:59 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[23-Aug-2016 04:24:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[23-Aug-2016 04:25:11 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[23-Aug-2016 04:25:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[23-Aug-2016 05:04:22 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 05:10:48 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 05:10:48 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 05:10:51 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[23-Aug-2016 09:20:13 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[24-Aug-2016 03:43:03 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:43:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:43:49 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:43:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:44:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:44:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:44:52 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:52:46 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:52:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:52:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 225
+[24-Aug-2016 03:53:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:54:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 03:55:43 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 03:55:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:08:06 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:08:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:10:41 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:10:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:15:21 UTC] PHP Notice:  Undefined variable: sepcialities in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:15:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 156
+[24-Aug-2016 04:18:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 04:18:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 04:18:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/editprofile.php on line 202
+[24-Aug-2016 04:25:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:27:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:29:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:33:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:35:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:42:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:44:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:47:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:50:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:54:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 04:57:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freaktemplate/public_html/clinicadmin/addnewprofile.php on line 226
+[24-Aug-2016 05:44:23 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Connection refused) in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 1181
+[24-Aug-2016 05:45:42 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Connection refused) in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 1181
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[30-Aug-2016 07:25:34 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[01-Sep-2016 08:59:33 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[02-Sep-2016 06:13:03 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[02-Sep-2016 06:13:20 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[02-Sep-2016 06:21:57 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/dashboard.php on line 174
+[06-Sep-2016 07:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 07:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:06:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 07:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:06:23 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:11:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 07:11:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:11:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:13:26 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 07:13:26 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:13:26 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:31:28 UTC] PHP Notice:  Undefined index: login in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 31
+[06-Sep-2016 07:31:28 UTC] PHP Notice:  Undefined index: uid in /home/freaktemplate/public_html/clinicadmin/include/header.php on line 2
+[06-Sep-2016 07:31:28 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 07:31:28 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 07:31:28 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 08:31:02 UTC] PHP Notice:  Undefined index: login in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 31
+[06-Sep-2016 08:31:02 UTC] PHP Notice:  Undefined index: uid in /home/freaktemplate/public_html/clinicadmin/include/header.php on line 2
+[06-Sep-2016 08:31:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[06-Sep-2016 08:31:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[06-Sep-2016 08:31:02 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:39:22 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:39:22 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:39:22 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:40:30 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:40:40 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:40:40 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:41:06 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:41:06 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:43:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:43:37 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:43:59 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 761
+[21-Sep-2016 10:43:59 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[21-Sep-2016 10:45:45 UTC] PHP Notice:  Trying to get property of non-object in /home/freaktemplate/public_html/clinicadmin/controllers/clinic.php on line 777
+[28-Sep-2016 12:55:15 Etc/GMT] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Connection timed out) in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 1181
+[28-Sep-2016 12:56:03 Etc/GMT] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Connection timed out) in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 1181
+[18-Apr-2017 04:40:38 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[18-Apr-2017 04:40:38 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[18-Apr-2017 04:40:38 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[18-Apr-2017 04:40:38 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[18-Apr-2017 04:44:50 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[18-Apr-2017 04:44:50 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[18-Apr-2017 04:46:30 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[18-Apr-2017 04:46:30 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[22-Apr-2017 05:45:19 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[22-Apr-2017 05:45:19 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[24-Apr-2017 04:13:58 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[24-Apr-2017 04:13:58 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[24-Apr-2017 11:59:07 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[24-Apr-2017 11:59:07 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[24-Apr-2017 12:54:50 Etc/GMT] PHP Notice:  Undefined index: login in /home/freak7vi/public_html/clinicadmin/controllers/clinic.php on line 31
+[24-Apr-2017 12:54:50 Etc/GMT] PHP Notice:  Undefined index: uid in /home/freak7vi/public_html/clinicadmin/include/header.php on line 2
+[10-Feb-2018 10:47:20 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[10-Feb-2018 10:47:20 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[10-Feb-2018 12:28:36 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[10-Feb-2018 12:28:36 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[10-Feb-2018 12:40:01 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[10-Feb-2018 12:40:01 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[10-Feb-2018 12:41:22 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[10-Feb-2018 12:41:22 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[12-Feb-2018 11:51:59 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[12-Feb-2018 11:51:59 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[12-Feb-2018 12:26:36 Etc/GMT] PHP Notice:  Undefined index: message in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 5
+[12-Feb-2018 13:17:57 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[12-Feb-2018 13:17:57 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[12-Feb-2018 13:24:10 Etc/GMT] PHP Notice:  Undefined index: message in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 4
+[13-Feb-2018 05:20:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[13-Feb-2018 05:20:04 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[13-Feb-2018 06:24:53 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[13-Feb-2018 06:24:53 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[13-Feb-2018 06:55:38 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[13-Feb-2018 06:55:38 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[13-Feb-2018 06:56:04 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[13-Feb-2018 06:56:04 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[13-Feb-2018 11:59:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/addnewprofile.php on line 226
+[13-Feb-2018 12:05:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 25
+[13-Feb-2018 12:06:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 25
+[13-Feb-2018 12:06:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 25
+[13-Feb-2018 12:09:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 13
+[13-Feb-2018 12:13:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 13
+[13-Feb-2018 12:15:00 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 14
+[13-Feb-2018 12:15:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 14
+[13-Feb-2018 12:16:02 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/insert_notify.php on line 14
+[14-Feb-2018 05:42:00 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[14-Feb-2018 05:42:00 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2
+[14-Feb-2018 05:42:03 Etc/GMT] PHP Notice:  Undefined index: login in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/controllers/clinic.php on line 31
+[14-Feb-2018 05:42:03 Etc/GMT] PHP Notice:  Undefined index: uid in /home/ktemplate/public_html/freaktemplate.xyz/clinicadmin/include/header.php on line 2

@@ -1,0 +1,53 @@
+1) user register POST Method
+   URL http://192.168.0.106/clinicadmin/Apicontrollers/userregister.php
+   All Variable Are POST
+   => username,email,password,reg_id,platform,file(image)
+   Note: Platform Value is Fixed Android
+
+2) user login GET Method
+    - Login With google Plus
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/userlogin.php?logintype=Google&email={}&name={}&image={}&platform={}=reg_id={}
+    -Login With Facebook
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/userlogin.php?logintype=Facebook&email={}&name={}&image={}&platform={}=reg_id={}
+    - Login Default
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/userlogin.php?username={}&password={}
+3) Get All City Get Method
+     - URL     http://192.168.0.106/clinicadmin/Apicontrollers/city.php
+
+4) Get Specialitites Get Method
+    - URL http://192.168.0.106/clinicadmin/Apicontrollers/specialities.php?$category_id={}
+    Note : category_id is the main category id For Ex : 1 doctors , 2 pharmarcies 3) hospitals
+
+5) Get Profile List Get Method
+    - Profile List With Orderby A-Z And Z-A
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/getprofile.php?specialities_id={}&lat={}&lon={}&orderby=a-z
+        Note : orderby value is a-z and z-a is fixed
+    - Profile List With city wise
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/getprofile.php?specialities_id={}&lat={}&lon={}&city={}
+        Note : city value city id is get for (city.php) web service in.
+    - Profile List Nearby
+      - URL http://192.168.0.106/clinicadmin/Apicontrollers/getprofile.php?specialities_id={}&lat={}&lon={}
+
+
+6) Get full Profile Detail Get Method
+    - URL http://192.168.0.106/clinicadmin/Apicontrollers/getprofilefulldetail.php?profile_id={}&lat={}&lon={}
+
+7) Get And POST Review GET MEthod
+    GET Review
+    - URL URL http://192.168.0.106/clinicadmin/Apicontrollers/getreview.php?profile_id={}
+   POST Review
+    - URL  http://192.168.0.106/clinicadmin/Apicontrollers/postreview.php?user_id={}&profile_id={}&review_text={}&ratting={}
+
+8) Web Service Changes List
+    if select Main Category For Doctor Than use same url currently continew.
+    if select main category hospital OR Pharmarcir  than use following url
+     + ORDER BY Alphabetically
+      URL http://192.168.1.107/clinicadmin/Apicontrollers/hospitalandpharmacie.php?category_id=2&lat=21.00&lon=72.00&orderby=a-z
+      Note : category_id  is  the main category id for valid only 2 for hospital and 3 for pharmarcie
+     + city wise
+       URL http://192.168.1.107/clinicadmin/Apicontrollers/hospitalandpharmacie.php?category_id=2&lat=21.00&lon=72.00&city=&current_city=rajkot
+       URL http://192.168.1.107/clinicadmin/Apicontrollers/hospitalandpharmacie.php?category_id=2&lat=21.00&lon=72.00&city=2
+       Note : category_id  is  the main category id for valid only 2 for hospital and 3 for pharmarcie
+     + get Profile For Radius wise
+       URL http://192.168.1.107/clinicadmin/Apicontrollers/hospitalandpharmacie.php?category_id=2&lat=21.00&lon=72.00&radius=50
+       Note : category_id  is  the main category id for valid only 2 for hospital and 3 for pharmarcie
